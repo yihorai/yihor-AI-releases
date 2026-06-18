@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T10:00:00.000Z",
+  "lastUpdated": "2026-06-18T03:30:11.830Z",
   "versions": {
     "0.0.29": {
       "metadata": {
@@ -13,7 +13,7 @@
           "version": "0.0.29",
           "feedUrls": {
             "github": "https://github.com/suger-coffee/yihor-AI-releases/releases/download/v0.0.29",
-            "gitcode": "https://gitcode.com/yihor/yihor-AI/releases/download/v0.0.29"
+            "gitcode": "https://releases.yihor.com"
           }
         },
         "rc": null,
