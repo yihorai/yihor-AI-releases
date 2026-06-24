@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-24T06:33:00.000Z",
+  "lastUpdated": "2026-06-24T09:00:51.791Z",
   "versions": {
-    "0.0.31": {
+    "0.0.32": {
       "metadata": {
         "segmentId": "current-v0",
         "segmentType": "latest"
@@ -10,10 +10,10 @@
       "description": "Current latest v0.x release",
       "channels": {
         "latest": {
-          "version": "0.0.31",
+          "version": "0.0.32",
           "feedUrls": {
-            "github": "https://github.com/yihorai/yihor-AI-releases/releases/download/v0.0.31",
-            "gitcode": "https://gitcode.com/yihor/yihor-AI/releases/download/v0.0.31"
+            "github": "https://github.com/yihorai/yihor-AI-releases/releases/download/v0.0.32",
+            "gitcode": "https://gitcode.com/yihor/yihor-AI/releases/download/v0.0.32"
           }
         },
         "rc": null,
