@@ -1,13 +1,32 @@
 {
-  "lastUpdated": "2026-06-24T09:00:51.791Z",
+  "lastUpdated": "2026-07-02T06:46:46.024Z",
   "versions": {
-    "0.0.32": {
+    "0.1.0": {
       "metadata": {
         "segmentId": "current-v0",
         "segmentType": "latest"
       },
       "minCompatibleVersion": "0.0.1",
       "description": "Current latest v0.x release",
+      "channels": {
+        "latest": {
+          "version": "0.1.0",
+          "feedUrls": {
+            "github": "https://github.com/yihorai/yihor-AI-releases/releases/download/v0.1.0",
+            "gitcode": "https://gitcode.com/yihor/yihor-AI/releases/download/v0.1.0"
+          }
+        },
+        "rc": null,
+        "beta": null
+      }
+    },
+    "0.0.32": {
+      "metadata": {
+        "segmentId": "legacy-v0",
+        "segmentType": "archived"
+      },
+      "minCompatibleVersion": "0.0.1",
+      "description": "Previous v0.0.x release",
       "channels": {
         "latest": {
           "version": "0.0.32",
