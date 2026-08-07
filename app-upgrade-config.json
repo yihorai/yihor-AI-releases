@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-30T12:58:45.483Z",
+  "lastUpdated": "2026-08-07T12:44:44.589Z",
   "versions": {
-    "0.1.4": {
+    "0.1.5": {
       "metadata": {
         "segmentId": "current-v0",
         "segmentType": "latest"
@@ -10,10 +10,10 @@
       "description": "Current latest v0.x release",
       "channels": {
         "latest": {
-          "version": "0.1.4",
+          "version": "0.1.5",
           "feedUrls": {
-            "github": "https://github.com/suger-coffee/yihor-AI-releases/releases/download/v0.1.4",
-            "gitcode": "https://gitcode.com/yihor/yihor-AI/releases/download/v0.1.4"
+            "github": "https://github.com/suger-coffee/yihor-AI-releases/releases/download/v0.1.5",
+            "gitcode": "https://gitcode.com/yihor/yihor-AI/releases/download/v0.1.5"
           }
         },
         "rc": null,
